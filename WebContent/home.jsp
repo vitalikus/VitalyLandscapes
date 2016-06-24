@@ -89,7 +89,7 @@ body {
 
 				Vitaly's Lovely Landscapes is a collection of some of her favorite
 				landscapes. If you would like to purchase a print, please <a
-					href="mailto:vitaut@gmail.com"> e-mail Vitaly</a> with the name of
+					href="mailto:info@vitalykhoruzhko.com"> e-mail Vitaly</a> with the name of
 				the print.
 
 			</p>
