@@ -1,0 +1,7 @@
+---
+applications:
+- name: VitalyKhoruzhkoPhoto
+  memory: 512M
+  host: VitalyKhoruzhkoPhoto
+  domain: mybluemix.net
+  buildpack: VitautPhoto
